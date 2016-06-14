@@ -1,0 +1,14 @@
+layout_spectrum: 0.1530403068754822
+typography_spectrum: 0.31452050572261214
+color:
+  brandStrength: 0.732412826968357
+  lightness: 0.37781768874265254
+  saturation: 0.07283931411802769
+  rhythmicContrast: 0.2324613614473492
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: LRS-Demo
