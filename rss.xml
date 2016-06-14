@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LRS-Demo]]></title>
+        <description><![CDATA[LRS-Demo]]></description>
+        <link>https://thegrid.ai/lrs-demo/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 14 Jun 2016 03:36:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lrs-demo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Valkyrie House Old-Fashioned Recipe]]></title>
+            <description><![CDATA[<article><h1>Valkyrie House Old-Fashioned Recipe</h1><p>This recipe is by Robert Simonson. Tell us what you think of it at The New York Times - Dining - Food.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4195654f327d207edb79fc38ad4ad8e4e86341e.jpg"></article>]]></description>
+            <link>http://cooking.nytimes.com/recipes/1017994-valkyrie-house-old-fashioned</link>
+            <guid isPermaLink="false">a4a5b07b-fbb5-416d-8a24-6670c4e7e064</guid>
+            <pubDate>Tue, 14 Jun 2016 03:32:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thinking inside the box: Prepd reinvents the lunchbox.]]></title>
+            <description><![CDATA[<article><h1>Thinking inside the box: Prepd reinvents the lunchbox.</h1><p>Packing attention to detail, intelligent design and delicious food into lunchtime is San Francisco-based team Prepd, founded by Chris Place and Will Matters. Their creation, 'Prepd Pack', is a modern take on the classic lunchbox, launched in January 2016 via a Kickstarter campaign that raised over $1 million.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53a022f82e153fb6ebb5204fcc6e09944b676b68.jpg"></article>]]></description>
+            <link>http://www.wallpaper.com/lifestyle/san-francisco-startup-prepd-pack-reinvents-the-lunchbox</link>
+            <guid isPermaLink="false">e1d40cde-75b9-48ea-a825-b7abe23b9a04</guid>
+            <pubDate>Tue, 14 Jun 2016 03:32:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Treehouse Chocolate's Four Drinking Chocolates]]></title>
+            <description><![CDATA[<article><h1>Treehouse Chocolate's Four Drinking Chocolates</h1><p>Winter may be officially over in the Northern Hemisphere, but that doesn't mean hot chocolate has to disappear from people's radar until temperatures cool again. For some of us, it makes for a viable alternative to coffee in the morning-with some serious sugar and cocoa kick.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/707cfeb12d925cddf6493a0f7a931b18979b2c86.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/food-drink/treehouse-chocolate-portland-drinking-chocolate</link>
+            <guid isPermaLink="false">0e73bd52-1750-41c4-94ff-074e2bef8f50</guid>
+            <pubDate>Tue, 14 Jun 2016 03:32:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
